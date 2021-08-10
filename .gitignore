@@ -1,0 +1,8 @@
+#忽略idnex.css
+index.css
+
+#忽略index.html
+index.html
+
+#忽略test里 的文件
+test/
